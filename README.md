@@ -73,3 +73,16 @@ films、people、planets、species、starships、vehicles
 + [备忘录](https://gitee.com/ZhaoJle/PersonalProject3/blob/master/report/Thursday/16340300ZhaoJle2.md)
 + [音乐播放器](https://gitee.com/ZhaoJle/PersonalProject4/blob/master/report/Thursday/16340300ZhaoJiale/16340300ZhaoJiale.md)
 + [抓取b站数据](https://gitee.com/ZhaoJle/PersonalProject5/blob/master/report/Thursday/16340300ZhaoJle/16340300ZhaoJiale.md)
+
+## 本学期要完成的项目
++ "挣闲钱"应用，目前想法是打算和学校周围一些零售商或者食堂对接，帮学生买东西。
++ 计算机图形学期末作业，制作一个动画短片。
+
+## 以学课程
+
+![](pic/3.png)
+![](pic/4.png)
+![](pic/5.png)
+![](pic/6.png)
+![](pic/7.png)
+![](pic/8.png)
